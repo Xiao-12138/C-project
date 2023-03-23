@@ -141,7 +141,19 @@
     <None Include="008_3-类和对象-对象特性-构造函数调用规则.cpp">
       <Filter>源文件</Filter>
     </None>
-    <None Include="8_4-类和对象-对象特性-深拷贝与浅拷贝.cpp">
+    <None Include="008_4-类和对象-对象特性-深拷贝与浅拷贝.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="008_5-类和对象-对象特性-初始化列表.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="008_6-类和对象-对象特性-类对象做类成员.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="008_7-类和对象-静态成员.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="008_8-类和对象-对象特性-成员变量和成员函数分开存储.cpp">
       <Filter>源文件</Filter>
     </None>
   </ItemGroup>
@@ -149,5 +161,10 @@
     <ClInclude Include="swap.h">
       <Filter>头文件</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="008_9-类和对象-对象特性-this指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
