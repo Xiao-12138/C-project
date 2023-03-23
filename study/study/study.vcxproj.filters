@@ -141,6 +141,9 @@
     <None Include="008_3-类和对象-对象特性-构造函数调用规则.cpp">
       <Filter>源文件</Filter>
     </None>
+    <None Include="8_4-类和对象-对象特性-深拷贝与浅拷贝.cpp">
+      <Filter>源文件</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap.h">

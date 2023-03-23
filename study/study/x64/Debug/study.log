@@ -1,2 +1,3 @@
-﻿  008_2-类和对象-对象特性-拷贝构造函数的调用时机.cpp
-  study.vcxproj -> F:\project\C++\study\x64\Debug\study.exe
+﻿  8_4-类和对象-对象特性-深拷贝与浅拷贝.cpp
+E:\project\C-project\study\study\8_4-类和对象-对象特性-深拷贝与浅拷贝.cpp(41,13): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  study.vcxproj -> E:\project\C-project\study\x64\Debug\study.exe
