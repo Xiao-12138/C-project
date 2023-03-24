@@ -252,10 +252,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="008_9-类和对象-对象特性-this指针.cpp">
+    <None Include="008_9-类和对象-对象特性-this指针.cpp">
       <SubType>
       </SubType>
-    </ClCompile>
+    </None>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

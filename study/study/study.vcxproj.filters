@@ -156,15 +156,13 @@
     <None Include="008_8-类和对象-对象特性-成员变量和成员函数分开存储.cpp">
       <Filter>源文件</Filter>
     </None>
+    <None Include="008_9-类和对象-对象特性-this指针.cpp">
+      <Filter>源文件</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap.h">
       <Filter>头文件</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="008_9-类和对象-对象特性-this指针.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
