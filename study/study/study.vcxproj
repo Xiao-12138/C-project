@@ -258,7 +258,13 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="008_10-类和对象-对象特性-空指针访问成员函数.cpp" />
+    <None Include="008_10-类和对象-对象特性-空指针访问成员函数.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="008_11-类和对象-对象特性-const修饰成员函数.cpp">
+      <SubType>
+      </SubType>
+    </None>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -159,15 +159,16 @@
     <None Include="008_9-类和对象-对象特性-this指针.cpp">
       <Filter>源文件</Filter>
     </None>
+    <None Include="008_10-类和对象-对象特性-空指针访问成员函数.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="008_11-类和对象-对象特性-const修饰成员函数.cpp">
+      <Filter>源文件</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap.h">
       <Filter>头文件</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="008_10-类和对象-对象特性-空指针访问成员函数.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
