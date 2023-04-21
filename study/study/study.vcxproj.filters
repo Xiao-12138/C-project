@@ -165,10 +165,18 @@
     <None Include="008_11-类和对象-对象特性-const修饰成员函数.cpp">
       <Filter>源文件</Filter>
     </None>
+    <None Include="008_12-类和对象-友元-全局函数做友元.cpp">
+      <Filter>源文件</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap.h">
       <Filter>头文件</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="008_13-类和对象-友元-类做友元.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -266,6 +266,12 @@
       </SubType>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="008_12-类和对象-友元-全局函数做友元.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="008_13-类和对象-友元-类做友元.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
