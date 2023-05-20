@@ -1,2 +1,2 @@
-﻿  008_13-类和对象-友元-类做友元.cpp
-  study.vcxproj -> E:\project\C-project\study\x64\Debug\study.exe
+﻿  008_15-类和对象-C++运算符重载-加号运算符重载.cpp
+E:\project\C-project\study\study\008_15-类和对象-C++运算符重载-加号运算符重载.cpp(49): error C4700: 使用了未初始化的局部变量“temp”
